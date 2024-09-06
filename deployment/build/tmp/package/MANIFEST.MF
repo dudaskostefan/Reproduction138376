@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Bundle-Name: Reproduction138376_main
-Bundle-SymbolicName: project
-Service-Component: OSGI-INF/component.xml
-
